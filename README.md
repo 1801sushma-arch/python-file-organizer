@@ -31,6 +31,8 @@ What I Learned
 Future Improvements
 * Add support for more file types
 * Add GUI using Tkinter
-Organize audio and ZIP files
-Make folder selection dynamic
+* Organize audio and ZIP files
+* Make folder selection dynamic
+
+
 Made with Python 🐍 by Sushmitha R
